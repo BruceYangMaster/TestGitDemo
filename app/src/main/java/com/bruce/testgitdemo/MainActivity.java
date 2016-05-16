@@ -18,4 +18,9 @@ public class MainActivity extends Activity {
     public void test() {
         //这是一个测试方法
     }
+
+
+    public void testTwo(){
+        //这是第二个测试方法
+    }
 }
