@@ -15,7 +15,7 @@ public class MainActivity extends Activity {
     /**
      * 测试方法
      */
-    public void test() {
+    public void tes() {
         //这是一个测试方法
     }
 
