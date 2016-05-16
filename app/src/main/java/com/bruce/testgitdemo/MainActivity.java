@@ -2,7 +2,6 @@ package com.bruce.testgitdemo;
 
 import android.app.Activity;
 import android.os.Bundle;
-import android.util.Log;
 
 public class MainActivity extends Activity {
     //这是一个测试版的
@@ -20,7 +19,6 @@ public class MainActivity extends Activity {
         String name = "杨杰_方俊";
         //这是一个测试方法
         //这又是测试
-        Log.d("tag","ahahhahahahhahah");
     }
 
 
