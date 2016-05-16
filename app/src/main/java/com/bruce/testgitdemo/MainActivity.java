@@ -17,13 +17,14 @@ public class MainActivity extends Activity {
      * 测试方法
      */
     public void tes() {
+        String name = "杨杰";
         //这是一个测试方法
         //这又是测试
         Log.d("tag","ahahhahahahhahah");
     }
 
 
-    public void testTwo(){
+    public void testTwo() {
         //这是第二个测试方法
     }
 }
