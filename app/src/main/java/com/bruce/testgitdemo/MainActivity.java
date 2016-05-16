@@ -11,4 +11,8 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
         //测试一下
     }
+
+    public void test(){
+        //这是一个测试方法
+    }
 }
