@@ -12,7 +12,10 @@ public class MainActivity extends Activity {
         //测试一下,再来
     }
 
-    public void test(){
+    /**
+     * 测试方法
+     */
+    public void test() {
         //这是一个测试方法
     }
 }
