@@ -8,7 +8,6 @@ import android.widget.TextView;
 public class MainActivity extends Activity {
 
     private TextView textView;
-
     //这是一个测试版的
     @Override
     protected void onCreate(Bundle savedInstanceState) {
