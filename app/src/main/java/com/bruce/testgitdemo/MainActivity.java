@@ -21,8 +21,13 @@ public class MainActivity extends Activity {
         //这又是测试
     }
 
-
+    /**
+     * 测试方法第二个
+     */
     public void testTwo() {
         //这是第二个测试方法
+        String name = "name ";
+        int age = 20;
+
     }
 }
